@@ -35,7 +35,7 @@
                                 </tr>
                                 <tr>
                                     <td>
-                                        Tamano total dos fragmentos duplicados:
+                                        Tamanho total dos fragmentos duplicados:
                                         <xsl:value-of select="//TotalFragmentsCost" />
                                     </td>
                                 </tr>
